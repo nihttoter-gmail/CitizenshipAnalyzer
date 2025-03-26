@@ -1,0 +1,8307 @@
+[
+  {
+    "month": 9,
+    "year": 2022,
+    "day": 4,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 132
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 112
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 6
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 163
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 7
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 1
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 18
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 77
+      }
+    ]
+  },
+  {
+    "month": 4,
+    "year": 2023,
+    "day": 29,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 57
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 197
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 5
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 5
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 72
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 6
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 31
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 14
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 62
+      }
+    ]
+  },
+  {
+    "month": 4,
+    "year": 2023,
+    "day": 24,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 50
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 209
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 4
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 8
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 15
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 54
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 1
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 38
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 14
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 62
+      }
+    ]
+  },
+  {
+    "month": 11,
+    "year": 2023,
+    "day": 18,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 104
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 19
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 6
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 25
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 41
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 47
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 82
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 25
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 36
+      }
+    ]
+  },
+  {
+    "month": 9,
+    "year": 2023,
+    "day": 11,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 100
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 32
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 13
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 55
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 2
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 36
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 14
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 62
+      }
+    ]
+  },
+  {
+    "month": 0,
+    "year": 2024,
+    "day": 24,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 103
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 2
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 8
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 139
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 7
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 28
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 25
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 36
+      }
+    ]
+  },
+  {
+    "month": 1,
+    "year": 2022,
+    "day": 10,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 28
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 387
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 11
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 9
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 19
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 6
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 133
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 6
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 35
+      }
+    ]
+  },
+  {
+    "month": 10,
+    "year": 2023,
+    "day": 4,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 121
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 16
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 6
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 18
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 17
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 21
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 20
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 72
+      }
+    ]
+  },
+  {
+    "month": 11,
+    "year": 2022,
+    "day": 13,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 103
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 57
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 14
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 2
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 390
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 39
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 27
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 11
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 32
+      }
+    ]
+  },
+  {
+    "month": 10,
+    "year": 2023,
+    "day": 1,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 110
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 36
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 20
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 14
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 2
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 36
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 14
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 62
+      }
+    ]
+  },
+  {
+    "month": 11,
+    "year": 2023,
+    "day": 3,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 107
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 31
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 34
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 7
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 186
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 14
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 41
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 17
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 9,
+    "year": 2023,
+    "day": 20,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 95
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 15
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 15
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 3
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 38
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 26
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 1
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 37
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 14
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 62
+      }
+    ]
+  },
+  {
+    "month": 0,
+    "year": 2024,
+    "day": 11,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 103
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 3
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 25
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 136
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 4
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 30
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 25
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 36
+      }
+    ]
+  },
+  {
+    "month": 5,
+    "year": 2022,
+    "day": 28,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 127
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 200
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 100
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 13
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 28
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 4
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 46
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 18
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 83
+      }
+    ]
+  },
+  {
+    "month": 7,
+    "year": 2023,
+    "day": 28,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 65
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 98
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 4
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 9
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 7
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 65
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 5
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 14
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 20
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 73
+      }
+    ]
+  },
+  {
+    "month": 10,
+    "year": 2023,
+    "day": 25,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 114
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 32
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 11
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 16
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 45
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 48
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 81
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 25
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 36
+      }
+    ]
+  },
+  {
+    "month": 1,
+    "year": 2021,
+    "day": 9,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 528
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 304
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 53
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 37
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 15
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 3
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 6
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 19
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 33
+      }
+    ]
+  },
+  {
+    "month": 6,
+    "year": 2023,
+    "day": 11,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 59
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 152
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 4
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 8
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 15
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 54
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 39
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 14
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 62
+      }
+    ]
+  },
+  {
+    "month": 11,
+    "year": 2022,
+    "day": 2,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 110
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 61
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 14
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 2
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 168
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 1
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 21
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 3
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 39
+      }
+    ]
+  },
+  {
+    "month": 11,
+    "year": 2021,
+    "day": 22,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 188
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 260
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 18
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 15
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 44
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 20
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 84
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 19
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 30
+      }
+    ]
+  },
+  {
+    "month": 1,
+    "year": 2023,
+    "day": 23,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 25
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 2
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 7
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 22
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 8
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 18
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 11
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 13
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 11
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 42
+      }
+    ]
+  },
+  {
+    "month": 9,
+    "year": 2023,
+    "day": 13,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 95
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 22
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 7
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 5
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 13
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 214
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 1
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 33
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 25
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 36
+      }
+    ]
+  },
+  {
+    "month": 3,
+    "year": 2023,
+    "day": 11,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 36
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 12
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 5
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 6
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 28
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 146
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 18
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 0,
+    "year": 2024,
+    "day": 16,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 101
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 3
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 20
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 137
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 3
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 31
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 25
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 36
+      }
+    ]
+  },
+  {
+    "month": 11,
+    "year": 2022,
+    "day": 16,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 40
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 282
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 8
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 16
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 14
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 3
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 5
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 5,
+    "year": 2022,
+    "day": 22,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 71
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 263
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 93
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 14
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 38
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 2
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 41
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 20
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 60
+      }
+    ]
+  },
+  {
+    "month": 6,
+    "year": 2023,
+    "day": 28,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 63
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 131
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 13
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 12
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 55
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 1
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 38
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 14
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 62
+      }
+    ]
+  },
+  {
+    "month": 6,
+    "year": 2023,
+    "day": 28,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 62
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 132
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 12
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 14
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 54
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 39
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 14
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 62
+      }
+    ]
+  },
+  {
+    "month": 2,
+    "year": 2023,
+    "day": 24,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 31
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 23
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 17
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 24
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 7
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 41
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 107
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 18
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 80
+      }
+    ]
+  },
+  {
+    "month": 10,
+    "year": 2023,
+    "day": 1,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 89
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 10
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 12
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 2
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 7
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 61
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 7
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 15
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 20
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 72
+      }
+    ]
+  },
+  {
+    "month": 10,
+    "year": 2023,
+    "day": 27,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 112
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 32
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 5
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 2
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 26
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 40
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 24
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 105
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 26
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 35
+      }
+    ]
+  },
+  {
+    "month": 0,
+    "year": 2024,
+    "day": 15,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 101
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 4
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 17
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 140
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 10
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 24
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 26
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 35
+      }
+    ]
+  },
+  {
+    "month": 0,
+    "year": 2024,
+    "day": 18,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 108
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 3
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 10
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 138
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 4
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 30
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 25
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 36
+      }
+    ]
+  },
+  {
+    "month": 0,
+    "year": 2024,
+    "day": 20,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 102
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 7
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 10
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 138
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 4
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 30
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 25
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 36
+      }
+    ]
+  },
+  {
+    "month": 2,
+    "year": 2022,
+    "day": 15,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 140
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 293
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 12
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 6
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 123
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 7
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 41
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 20
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 59
+      }
+    ]
+  },
+  {
+    "month": 4,
+    "year": 2023,
+    "day": 16,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 55
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 212
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 4
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 3
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 15
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 60
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 2
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 36
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 10,
+    "year": 2023,
+    "day": 17,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 116
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 8
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 6
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 20
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 76
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 48
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 18
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 11
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 32
+      }
+    ]
+  },
+  {
+    "month": 6,
+    "year": 2023,
+    "day": 28,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 66
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 128
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 7
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 5
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 13
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 58
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 6
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 31
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 14
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 74
+      }
+    ]
+  },
+  {
+    "month": 10,
+    "year": 2023,
+    "day": 19,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 114
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 8
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 8
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 8
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 12
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 13
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 2
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 20
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 20
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 72
+      }
+    ]
+  },
+  {
+    "month": 8,
+    "year": 2022,
+    "day": 1,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 153
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 371
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 2
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 5
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 11
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 60
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 9
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 30
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 6
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 65
+      }
+    ]
+  },
+  {
+    "month": 7,
+    "year": 2022,
+    "day": 9,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 160
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 125
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 79
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 12
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 97
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 2
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 7
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 12
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 73
+      }
+    ]
+  },
+  {
+    "month": 1,
+    "year": 2022,
+    "day": 5,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 143
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 326
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 61
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 87
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 13
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 25
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 8
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 18
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 71
+      }
+    ]
+  },
+  {
+    "month": 9,
+    "year": 2023,
+    "day": 16,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 89
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 26
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 4
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 14
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 127
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 45
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 18
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 11
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 32
+      }
+    ]
+  },
+  {
+    "month": 11,
+    "year": 2023,
+    "day": 12,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 107
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 22
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 6
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 25
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 42
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 11,
+    "year": 2023,
+    "day": 3,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 108
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 30
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 5
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 27
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 40
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 22
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 107
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 25
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 36
+      }
+    ]
+  },
+  {
+    "month": 0,
+    "year": 2024,
+    "day": 12,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 102
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 2
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 24
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 137
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 3
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 31
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 25
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 36
+      }
+    ]
+  },
+  {
+    "month": 7,
+    "year": 2023,
+    "day": 30,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 67
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 94
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 2
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 4
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 13
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 60
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 25
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 20
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 72
+      }
+    ]
+  },
+  {
+    "month": 1,
+    "year": 2024,
+    "day": 8,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 132
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 2
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 3
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 7
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 94
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 3
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 113
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 17
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 4,
+    "year": 2023,
+    "day": 8,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 46
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 229
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 7
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 11
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 39
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 87
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 47
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 26
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 4
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 35
+      }
+    ]
+  },
+  {
+    "month": 1,
+    "year": 2024,
+    "day": 9,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 110
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 7
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 120
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 4
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 30
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 25
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 37
+      }
+    ]
+  },
+  {
+    "month": 1,
+    "year": 2024,
+    "day": 17,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 117
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 4
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 6
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 132
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 35
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 50
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 17
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 5,
+    "year": 2023,
+    "day": 1,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 74
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 249
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 6
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 32
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 35
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 46
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 20
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 11
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 32
+      }
+    ]
+  },
+  {
+    "month": 10,
+    "year": 2023,
+    "day": 3,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 110
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 28
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 8
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 15
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 21
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 19
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 20
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 76
+      }
+    ]
+  },
+  {
+    "month": 9,
+    "year": 2023,
+    "day": 26,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 117
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 28
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 6
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 19
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 15
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 1
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 37
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 14
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 62
+      }
+    ]
+  },
+  {
+    "month": 6,
+    "year": 2023,
+    "day": 22,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 66
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 134
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 13
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 8
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 59
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 23
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 20
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 72
+      }
+    ]
+  },
+  {
+    "month": 9,
+    "year": 2023,
+    "day": 14,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 93
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 23
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 7
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 8
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 42
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 25
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 38
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 14
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 1,
+    "year": 2024,
+    "day": 24,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 124
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 5
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 8
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 84
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 4
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 112
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 17
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 1,
+    "year": 2024,
+    "day": 24,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 128
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 5
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 88
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 1
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 114
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 17
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 9,
+    "year": 2023,
+    "day": 28,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 128
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": null
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": null
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 2,
+    "year": 2023,
+    "day": 25,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 31
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 23
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 277
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 8
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 63
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 8
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 29
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 13
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 63
+      }
+    ]
+  },
+  {
+    "month": 11,
+    "year": 2022,
+    "day": 14,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 96
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 94
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 42
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 12
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 99
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 4
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 4
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 18
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 72
+      }
+    ]
+  },
+  {
+    "month": 10,
+    "year": 2023,
+    "day": 14,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 112
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 15
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 5
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 2
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 15
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 19
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 1
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 37
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 14
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 62
+      }
+    ]
+  },
+  {
+    "month": 10,
+    "year": 2023,
+    "day": 29,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 119
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 23
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 5
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 27
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 40
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 39
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 90
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 25
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 36
+      }
+    ]
+  },
+  {
+    "month": 2,
+    "year": 2024,
+    "day": 18,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 146
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 2
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 7
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 44
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 5
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 110
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 17
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 2,
+    "year": 2024,
+    "day": 5,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 15
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 5
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 3
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 15
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 18
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 2
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 36
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 14
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 62
+      }
+    ]
+  },
+  {
+    "month": 7,
+    "year": 2023,
+    "day": 12,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 226
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 24
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": null
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 11,
+    "year": 2021,
+    "day": 13,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 155
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 608
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 2
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 5
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 1
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 15
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 119
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 14
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 50
+      }
+    ]
+  },
+  {
+    "month": 8,
+    "year": 2023,
+    "day": 15,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 73
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 72
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 11
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 8
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 61
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 2
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 37
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 14
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 63
+      }
+    ]
+  },
+  {
+    "month": 1,
+    "year": 2024,
+    "day": 8,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 108
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 2
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 8
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 120
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 5
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 29
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 25
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 36
+      }
+    ]
+  },
+  {
+    "month": 3,
+    "year": 2024,
+    "day": 14,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 1
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": null
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": null
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 11,
+    "year": 2023,
+    "day": 13,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 107
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 21
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 5
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 26
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 41
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 45
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 84
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 25
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 43
+      }
+    ]
+  },
+  {
+    "month": 11,
+    "year": 2023,
+    "day": 27,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 97
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 17
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 19
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 11
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 43
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 29
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 100
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 25
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 36
+      }
+    ]
+  },
+  {
+    "month": 1,
+    "year": 2024,
+    "day": 28,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 133
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 7
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 77
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 3
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 112
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 11,
+    "year": 2023,
+    "day": 18,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 112
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 11
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 15
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 5
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 10
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 6,
+    "year": 2023,
+    "day": 27,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 60
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 135
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 11
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 9
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 40
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 81
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 50
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 19
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 11
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 32
+      }
+    ]
+  },
+  {
+    "month": 10,
+    "year": 2023,
+    "day": 1,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 83
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 16
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 13
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 12
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 56
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 22
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 20
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 72
+      }
+    ]
+  },
+  {
+    "month": 11,
+    "year": 2023,
+    "day": 2,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 109
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 31
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 4
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 28
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 39
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 51
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 78
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 25
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 37
+      }
+    ]
+  },
+  {
+    "month": 3,
+    "year": 2024,
+    "day": 8,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 160
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 7
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 39
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 23
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 70
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 9
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 3,
+    "year": 2024,
+    "day": 9,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 159
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 8
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 39
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 23
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 62
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 17
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 3,
+    "year": 2024,
+    "day": 12,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 157
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 4
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 10
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": -10
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 25
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 11
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 10
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 83
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 17
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 10,
+    "year": 2023,
+    "day": 17,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 121
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 33
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 6
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 26
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 40
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 0,
+    "year": 2023,
+    "day": 13,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 6
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 433
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 8
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 12
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 13
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 38
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 13
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 63
+      }
+    ]
+  },
+  {
+    "month": 11,
+    "year": 2023,
+    "day": 16,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 107
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 18
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 5
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 26
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 41
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 16
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 113
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 25
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 36
+      }
+    ]
+  },
+  {
+    "month": 0,
+    "year": 2024,
+    "day": 16,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 101
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 3
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 20
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 137
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 1
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 33
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 25
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 36
+      }
+    ]
+  },
+  {
+    "month": 4,
+    "year": 2023,
+    "day": 19,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 47
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 217
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 11
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 3
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 53
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 11
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 3
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 23
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 20
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 72
+      }
+    ]
+  },
+  {
+    "month": 0,
+    "year": 2024,
+    "day": 11,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 100
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 5
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 26
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 137
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 3
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 29
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 25
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 5,
+    "year": 2022,
+    "day": 29,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 123
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 204
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 79
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 12
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 49
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 35
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 13
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 20
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 63
+      }
+    ]
+  },
+  {
+    "month": 10,
+    "year": 2023,
+    "day": 18,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 114
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 9
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 6
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 18
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 16
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 9
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 29
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 14
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 62
+      }
+    ]
+  },
+  {
+    "month": 4,
+    "year": 2023,
+    "day": 11,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 53
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 219
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 12
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 12
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 56
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 1
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 22
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 20
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 72
+      }
+    ]
+  },
+  {
+    "month": 7,
+    "year": 2023,
+    "day": 16,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 90
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 78
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 5
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 81
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 1
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 0,
+    "year": 2024,
+    "day": 16,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 105
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 2
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 16
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 146
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 7
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 20
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 26
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 7,
+    "year": 2023,
+    "day": 8,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 63
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 126
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 10
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 14
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 50
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 1
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 35
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 7
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 8,
+    "year": 2023,
+    "day": 15,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 35
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 206
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": null
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 4,
+    "year": 2024,
+    "day": 8,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 173
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 13
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 22
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 14
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 40
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 17
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 3,
+    "year": 2024,
+    "day": 26,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 168
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 11
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 9
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 33
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 13
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 50
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 9
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 7,
+    "year": 2022,
+    "day": 26,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 150
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 283
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 6
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 33
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 8
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 54
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 13
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 73
+      }
+    ]
+  },
+  {
+    "month": 11,
+    "year": 2022,
+    "day": 9,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 109
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 258
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 50
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 7
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 84
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 6
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 14
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 20
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 64
+      }
+    ]
+  },
+  {
+    "month": 4,
+    "year": 2024,
+    "day": 12,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 171
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 11
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 10
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 4,
+    "year": 2024,
+    "day": 12,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 171
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 67
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 7
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 14
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 49
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 0,
+    "year": 2024,
+    "day": 1,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 31
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 29
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 31
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 30
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 1
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 1
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 29
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 2
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 28
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 52
+      }
+    ]
+  },
+  {
+    "month": 8,
+    "year": 2021,
+    "day": 27,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 246
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 282
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 4
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 17
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 17
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 29
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 10
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 4
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 21
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 27
+      }
+    ]
+  },
+  {
+    "month": 0,
+    "year": 2024,
+    "day": 11,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 99
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 5
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 32
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 129
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 2
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 33
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 25
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 36
+      }
+    ]
+  },
+  {
+    "month": 4,
+    "year": 2024,
+    "day": 23,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 168
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 3
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 9
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 117
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 4,
+    "year": 2024,
+    "day": 10,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 171
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 14
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 20
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 13
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 42
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 17
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 4,
+    "year": 2024,
+    "day": 28,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 166
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 2
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 6
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 15
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 104
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 3,
+    "year": 2024,
+    "day": 1,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 160
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 6
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 3
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 72
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 18
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 43
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 15
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 5,
+    "year": 2024,
+    "day": 1,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 165
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 4
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 15
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 104
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 4,
+    "year": 2023,
+    "day": 11,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 50
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 310
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 2
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 37
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 6
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 112
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 29
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 25
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 8,
+    "year": 2023,
+    "day": 18,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 92
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 50
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": null
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 1,
+    "year": 2024,
+    "day": 25,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 126
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 2
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 6
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 87
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 3
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 5,
+    "year": 2024,
+    "day": 11,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 161
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 13
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 8
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 96
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 5,
+    "year": 2024,
+    "day": 17,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 157
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 6
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 11
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 98
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 5,
+    "year": 2024,
+    "day": 19,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 154
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 7
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 11
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 98
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 6,
+    "year": 2023,
+    "day": 10,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 30
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 322
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 5
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 8
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 86
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 3
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 31
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 25
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 36
+      }
+    ]
+  },
+  {
+    "month": 7,
+    "year": 2023,
+    "day": 2,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 69
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 120
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 7
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 5
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 15
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 54
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 1
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 38
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 14
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 6,
+    "year": 2024,
+    "day": 6,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 152
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 11
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 91
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 6,
+    "year": 2024,
+    "day": 5,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 156
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 7
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 91
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 6,
+    "year": 2024,
+    "day": 12,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 148
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 7
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 91
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 2,
+    "year": 2024,
+    "day": 1,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 137
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 7
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 72
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 3
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 112
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 17
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 2,
+    "year": 2024,
+    "day": 4,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 139
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 2
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 15
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 56
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 6
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 110
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 6,
+    "year": 2024,
+    "day": 26,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 140
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 2
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 1,
+    "year": 2024,
+    "day": 12,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 112
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 8
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 113
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 59
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 0
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 0
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 3,
+    "year": 2023,
+    "day": 18,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 38
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 264
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 7
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 10
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 53
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 4
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 35
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 6
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 65
+      }
+    ]
+  },
+  {
+    "month": 7,
+    "year": 2024,
+    "day": 17,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 146
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 5
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 6
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 55
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 2,
+    "year": 2024,
+    "day": 8,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 174
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 8
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 29
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 0
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 1
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 112
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 19
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 1,
+    "year": 2024,
+    "day": 11,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 110
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 3
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 9
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 6
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 106
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 7
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 28
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 25
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 8,
+    "year": 2024,
+    "day": 12,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 132
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 7
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 13
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 33
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 8,
+    "year": 2024,
+    "day": 14,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 130
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": null
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": null
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 5,
+    "year": 2024,
+    "day": 29,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 260
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": null
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 3,
+    "year": 2024,
+    "day": 16,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 163
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 19
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 19
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 37
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 48
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 17
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 0,
+    "year": 2024,
+    "day": 21,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 113
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 9
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 6
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 128
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 3
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 31
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 25
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 9,
+    "year": 2024,
+    "day": 4,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 120
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 2
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 9,
+    "year": 2022,
+    "day": 26,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 114
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 503
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 3
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 5
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 16
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 70
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 3
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 28
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 25
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 36
+      }
+    ]
+  },
+  {
+    "month": 9,
+    "year": 2024,
+    "day": 14,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 114
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 5
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 3
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 9
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 25
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 4,
+    "year": 2024,
+    "day": 27,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 167
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 7
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 15
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 9,
+    "year": 2024,
+    "day": 8,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 115
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 5
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 6
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 33
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 9,
+    "year": 2023,
+    "day": 1,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 89
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 62
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 31
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 30
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 60
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 77
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 16
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 37
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 25
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": 36
+      }
+    ]
+  },
+  {
+    "month": 3,
+    "year": 2024,
+    "day": 30,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 177
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": null
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": null
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 1,
+    "year": 2024,
+    "day": 19,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 141
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 0
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 7
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 78
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 54
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 62
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 17
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 4,
+    "year": 2024,
+    "day": 12,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 173
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 2
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 9
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 20
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": 14
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": 41
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": 17
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 10,
+    "year": 2024,
+    "day": 12,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 107
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 5
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 8
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 10,
+    "year": 2024,
+    "day": 21,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 28
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 76
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": null
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 9,
+    "year": 2024,
+    "day": 5,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 119
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 3
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 11
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 25
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 10,
+    "year": 2024,
+    "day": 18,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 102
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 3
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 8
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 7,
+    "year": 2024,
+    "day": 31,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 138
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 10
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 2
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 2
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 46
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 8,
+    "year": 2024,
+    "day": 9,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 133
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 8
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 13
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 34
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 8,
+    "year": 2024,
+    "day": 21,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 128
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 7
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 16
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 21
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 6,
+    "year": 2024,
+    "day": 3,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 155
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 3
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 8
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 2,
+    "year": 2024,
+    "day": 14,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 144
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": null
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 9,
+    "year": 2024,
+    "day": 11,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 116
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 5
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": 7
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": 27
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  },
+  {
+    "month": 5,
+    "year": 2024,
+    "day": 5,
+    "steps": [
+      {
+        "stepId": "ApplicationSubmitted",
+        "duration": null
+      },
+      {
+        "stepId": "AcknowledgementOfReceipt",
+        "duration": 270
+      },
+      {
+        "stepId": "ISDEVettingInvitation",
+        "duration": 0
+      },
+      {
+        "stepId": "ISDEVettingAcknowledgement",
+        "duration": 1
+      },
+      {
+        "stepId": "GardaEVettingInvitation",
+        "duration": 7
+      },
+      {
+        "stepId": "GardaEVettingDisclosureViewed",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationFinalProcessing",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationApproved",
+        "duration": null
+      },
+      {
+        "stepId": "ApplicationPaymentAcknowledgement",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyInvitationReceived",
+        "duration": null
+      },
+      {
+        "stepId": "CeremonyAttended",
+        "duration": null
+      },
+      {
+        "stepId": "CertificateReceived",
+        "duration": null
+      }
+    ]
+  }
+]
