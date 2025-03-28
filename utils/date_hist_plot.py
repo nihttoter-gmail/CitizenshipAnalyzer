@@ -1,6 +1,7 @@
 import matplotlib.pyplot as pyplot
 import matplotlib.patches as patches
 from utils.display_dataset_info import display_dataset_info
+import pandas
 
 from config import SHOW_CHARTS
 
@@ -33,7 +34,10 @@ def date_hist_plot(dates_set, chart_title="Date Histogram", xlabel="Date", ylabe
     count_ticks = dates_set.map(lambda date: f"{date.month}-{date.year}")
     most_usual_month = count_ticks.mode()[0]
     max_count = count_ticks[count_ticks == most_usual_month].shape[0]
-    count_ticks = range(1, max_count + 2)
+    y_ticks = range(1, max_count + 2)
+
+    bins_pd = pandas.Series(bins)
+    x_ticks = bins_pd[bins_pd.map(lambda date: date.month % 3 == 1)]
 
     # Рисуем график
     legend = "Количество записей: {size}".format(size=str(dates_set.size))
@@ -46,6 +50,7 @@ def date_hist_plot(dates_set, chart_title="Date Histogram", xlabel="Date", ylabe
     axes.set_ylabel(ylabel)
     axes.set_title(chart_title)
     axes.legend(loc="upper right", fontsize="medium")
-    axes.set_yticks(count_ticks)
-    # axes.set_xticks(bins)
+    axes.set_yticks(y_ticks)
+    # axes.set_xticks(x_ticks)
+
     pyplot.show()

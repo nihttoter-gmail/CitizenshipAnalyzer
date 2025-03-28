@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f6108c1-91ce-4e68-8bab-583883b68e8d" name="Changes" comment="Create chart drawing function">
-      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CitizenshipAnalyzer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CitizenshipAnalyzer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="9f6108c1-91ce-4e68-8bab-583883b68e8d" name="Changes" comment="Add ticks calculations">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utils/date_hist_plot.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/date_hist_plot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/display_dataset_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/display_dataset_info.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/normalize_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/normalize_dataset.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742988917857</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add ticks calculations">
+      <option name="closed" value="true" />
+      <created>1743175162238</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743175162238</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,6 +150,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Move code to normalize function." />
-    <option name="LAST_COMMIT_MESSAGE" value="Move code to normalize function." />
+    <MESSAGE value="Add ticks calculations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add ticks calculations" />
   </component>
 </project>
