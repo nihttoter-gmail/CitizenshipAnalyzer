@@ -1,2 +1,2 @@
 SHOW_LOGS = False
-SHOW_CHARTS = True
+SHOW_CHARTS = False

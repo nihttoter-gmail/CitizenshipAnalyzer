@@ -13,6 +13,8 @@ from utils.date_hist_plot import date_hist_plot
 
 # Загрузка и нормализация датасета
 normalized_dataset: DataFrame = normalize_dataset(path="./data/raw.json", output_path="./data/raw-normalized.json")
+print(normalized_dataset.count())
+print(normalized_dataset.describe())
 
 # Граффик первоначальный подач
 submit_set = normalized_dataset["ApplicationSubmitted"].map(
