@@ -1,0 +1,2 @@
+SHOW_LOGS = False
+SHOW_CHARTS = True

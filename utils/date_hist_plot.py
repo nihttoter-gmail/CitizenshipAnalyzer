@@ -2,8 +2,13 @@ import matplotlib.pyplot as pyplot
 import matplotlib.patches as patches
 from utils.display_dataset_info import display_dataset_info
 
+from config import SHOW_CHARTS
+
 
 def date_hist_plot(dates_set, chart_title="Date Histogram", xlabel="Date", ylabel="Count"):
+    if not SHOW_CHARTS:
+        return
+
     # Информация о датасете
     display_dataset_info(dataset=dates_set, dataset_name="Histogram chart dataset")
 
@@ -24,6 +29,12 @@ def date_hist_plot(dates_set, chart_title="Date Histogram", xlabel="Date", ylabe
 
         bins.append(new_bin)
 
+    # Готовим тики
+    count_ticks = dates_set.map(lambda date: f"{date.month}-{date.year}")
+    most_usual_month = count_ticks.mode()[0]
+    max_count = count_ticks[count_ticks == most_usual_month].shape[0]
+    count_ticks = range(1, max_count + 2)
+
     # Рисуем график
     legend = "Количество записей: {size}".format(size=str(dates_set.size))
 
@@ -35,6 +46,6 @@ def date_hist_plot(dates_set, chart_title="Date Histogram", xlabel="Date", ylabe
     axes.set_ylabel(ylabel)
     axes.set_title(chart_title)
     axes.legend(loc="upper right", fontsize="medium")
-    axes.set_yticks(range(1, 15))
+    axes.set_yticks(count_ticks)
     # axes.set_xticks(bins)
     pyplot.show()

@@ -1,11 +1,13 @@
 from calendar import month
 
-import pandas as pd
-import matplotlib.pyplot as pyplot
 import datetime
 
+import matplotlib.pyplot as pyplot
+
+import pandas as pd
 from pandas import DataFrame
 from pandas.io.pytables import DataCol
+
 from utils.normalize_dataset import normalize_dataset
 from utils.date_hist_plot import date_hist_plot
 

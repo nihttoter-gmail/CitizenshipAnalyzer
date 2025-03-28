@@ -36,5 +36,8 @@ def normalize_dataset(path="./data/raw.json", output_path="./data/raw-normalized
     normalized_ds = normalized_ds.drop('year', axis="columns")
     normalized_ds = normalized_ds.drop('day', axis="columns")
     normalized_ds = normalized_ds.drop('steps', axis="columns")
+
+    display_dataset_info(dataset=normalized_ds, dataset_name="Normalized Dataset")
+
     normalized_ds.to_json(output_path, orient='records')
     return pandas.read_json(output_path)
